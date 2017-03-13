@@ -1,5 +1,5 @@
 _repo: A-Modern-Telemachus_4271
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Hennessy, William John
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1917
     gutenberg_agent_id: '9782'
     url: http://www.gutenberg.org/2009/agents/9782
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -21,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: A classic tale of piracy, kidnapping, derring-do, and adventure on the
   Algerian main, based on a true story taken from The Mariners' Chronicle.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4271#A-Modern-Telemachus
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
